@@ -69,3 +69,5 @@ plot(votes100$PropFor, votes100$Amount,main='Proportion of Votes For and Cost',x
 #---------------------------#
 
 print("Hello World")
+
+print("Hi")
